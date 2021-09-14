@@ -15,4 +15,4 @@ while T > 0:
             s1 = s1[:i]+P[x]+s1[i+1:] # thay đổi giá trị tại vị trí thứ i
         s1 = s1[::-1] # đảo ngược chuỗi số.
         print(s1)
-    
+
