@@ -5,7 +5,7 @@ def Prime(k):
     if k < 2:
         return False
     for i in range(2, int(k // 2) + 1):
-        if k % 2 == 0:
+        if k % i == 0:
             return False
     return True
 
@@ -15,7 +15,7 @@ while T > 0:
     s = input()
     ok = True
     for i in range(len(s)):
-        print(i, " ", int(s[i]))
+        # print(i, " ", int(s[i]))
         if (Prime(i) == True and Prime(int(s[i])) == True) or (Prime(i) == False and Prime(int(s[i])) == False):
             continue
         else:
