@@ -2,18 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2a14f4-5ab0-4f28-8dbe-8086edb11fa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PY01029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY01030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY01036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY01059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY01060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY01062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY02057.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY01057.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY01057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY02009.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY02009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +71,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Python.PY02041">
-    <configuration name="PY01030" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PY02057">
+    <configuration name="PY01034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY01030.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY01034.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY01036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PY02035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY01036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY02017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PY02049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02049.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY02020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PY02052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02052.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY02041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PY02057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02057.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PY02041" />
-        <item itemvalue="Python.PY02017" />
-        <item itemvalue="Python.PY02020" />
-        <item itemvalue="Python.PY01036" />
-        <item itemvalue="Python.PY01030" />
+        <item itemvalue="Python.PY02057" />
+        <item itemvalue="Python.PY02052" />
+        <item itemvalue="Python.PY01034" />
+        <item itemvalue="Python.PY02049" />
+        <item itemvalue="Python.PY02035" />
       </list>
     </recent_temporary>
   </component>
@@ -199,11 +216,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PY02031.py</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Test.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PY01029.py</url>
