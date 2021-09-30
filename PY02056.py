@@ -1,10 +1,11 @@
 def isPrime(k):
-    if k < 2:
+    k = str(k)
+    if len(k) < 2:
         return False
-    for i in range(2, int(k // 2) + 1):
-        if k % i == 0:
-            return False
-    return True
+    tmp = k[::-1]
+    if int(tmp) == int(k):
+        return True
+    return False
 
 
 s = input().split()
