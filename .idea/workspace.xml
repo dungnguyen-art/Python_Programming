@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2a14f4-5ab0-4f28-8dbe-8086edb11fa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PY03004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY02023.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY02023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY03004.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY03004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
