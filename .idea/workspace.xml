@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2a14f4-5ab0-4f28-8dbe-8086edb11fa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PY02024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY02056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY03004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY02055.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY02055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY02023.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY02023.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Python.PY02051">
+  <component name="RunManager" selected="Python.PY03004">
     <configuration name="PY02024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY02056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PY03004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code.ptit.PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY02056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY03004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PY03004" />
         <item itemvalue="Python.PY02051" />
         <item itemvalue="Python.bai3" />
         <item itemvalue="Python.PY02029" />
         <item itemvalue="Python.PY02024" />
-        <item itemvalue="Python.PY02056" />
       </list>
     </recent_temporary>
   </component>
