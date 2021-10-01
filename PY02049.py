@@ -8,7 +8,7 @@ while T > 0:
     tmp = math.factorial(n)
     # print(tmp)
     i, res, x = 0, 0, 0
-    while res < n:
+    while res < tmp:
         res = p ** i
         if tmp % res == 0:
             x = i
